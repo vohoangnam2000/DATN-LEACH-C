@@ -1,0 +1,222 @@
+
+Thread[Thread-1,5,main][INFO] Setting up for head and node
+[INFO] Done setting up for head and sink
+[INFO] Radio started!
+[INFO] TS received
+[INFO] System new round
+[INFO] Read data done
+[INFO] Sending Join Req
+[INFO] Sending Join Req
+[INFO] Slot assigned: 2
+[INFO] Adding new slot to slot map. Slot position: 2
+[INFO] Removing slot from slot map. Slot position: 1
+[INFO] Shutting radio down
+[INFO] Radio Stopped!
+[INFO] Radio started!
+[INFO] Current round: 5
+[INFO] Sending Sync Beacon Local
+[INFO] Time Sync Sent!
+[INFO] Removing slot from slot map. Slot position: 5
+[INFO] Force end last slot
+[INFO] Shutting radio down
+[INFO] Radio Stopped!
+[INFO] System new round
+[INFO] Radio started!
+[INFO] TS received
+[INFO] Read data done
+[INFO] Sending Data Pkg
+[INFO] Data pkg sent
+[INFO] Shutting radio down
+[INFO] Radio Stopped!
+[INFO] Radio started!
+[INFO] Current round: 4
+[INFO] Sending Sync Beacon Local
+[INFO] Time Sync Sent!
+[INFO] Shutting radio down
+[INFO] Radio Stopped!
+[ERR] New slot position can't bigger than 31. Slot position: 254
+[INFO] Force end last slot
+[INFO] Radio started!
+[INFO] System new round
+[INFO] TS received
+[INFO] Read data done
+[INFO] Sending Data Pkg
+[INFO] Data pkg sent
+[INFO] Shutting radio down
+[INFO] Radio Stopped!
+[INFO] Radio started!
+[INFO] Current round: 3
+[INFO] Sending Sync Beacon Local
+[INFO] Time Sync Sent!
+[INFO] Removing slot from slot map. Slot position: 2
+[INFO] Removing slot from slot map. Slot position: 3
+[INFO] Removing slot from slot map. Slot position: 4
+[INFO] Force end last slot
+[INFO] Shutting radio down
+[INFO] Radio Stopped!
+[INFO] System new round
+[INFO] Radio started!
+[INFO] TS received
+[INFO] Read data done
+[INFO] Sending Data Pkg
+[INFO] Data pkg sent
+[INFO] Shutting radio down
+[INFO] Radio Stopped!
+[INFO] Radio started!
+[INFO] Current round: 2
+[INFO] Sending Sync Beacon Local
+[INFO] Time Sync Sent!
+[INFO] Shutting radio down
+[INFO] Radio Stopped!
+[ERR] New slot position can't bigger than 31. Slot position: 254
+[INFO] Radio started!
+[INFO] Current round: 2
+[INFO] Sending Sync Beacon Local
+[INFO] Time Sync Sent!
+[INFO] Force end last slot
+[INFO] Shutting radio down
+[INFO] Radio Stopped!
+[INFO] System new round
+[INFO] Radio started!
+[INFO] TS received
+[INFO] Read data done
+[INFO] Sending Data Pkg
+[INFO] Data pkg sent
+[INFO] Shutting radio down
+[INFO] Radio Stopped!
+[INFO] Radio started!
+[INFO] Current round: 1
+[INFO] Sending Sync Beacon Local
+[INFO] Time Sync Sent!
+[INFO] Shutting radio down
+[INFO] Radio Stopped!
+[ERR] New slot position can't bigger than 31. Slot position: 254
+[INFO] Radio started!
+[INFO] Current round: 1
+[INFO] Sending Sync Beacon Local
+[INFO] Time Sync Sent!
+[INFO] Force end last slot
+[INFO] Shutting radio down
+[INFO] Radio Stopped!
+[INFO] System new round
+[INFO] Radio started!
+[INFO] TS received
+[INFO] Read data done
+[INFO] Shutting radio down
+[INFO] Radio Stopped!
+[INFO] Radio started!
+[INFO] Current round: 0
+[INFO] Sending Sync Beacon Local
+[INFO] Time Sync Sent!
+[INFO] Shutting radio down
+[INFO] Radio Stopped!
+[INFO] TDMA Controller stopped!
+[INFO] Setting up for head and node
+[INFO] Setting up for head and node
+[INFO] Radio started!
+[INFO] TS received
+[INFO] TS received
+[INFO] TS received
+[INFO] TS received
+[INFO] TS received
+[INFO] TDMA Controller stopped!
+[INFO] Setting up for head and node
+[INFO] Done setting up for head and sink
+[INFO] TDMA Controller stopped!
+[INFO] Setting up for head and node
+[INFO] Done setting up for head and sink
+[INFO] Setting up for head and n[INFO] TS received
+[INFO] System new round
+[INFO] Read data done
+[INFO] Sending Join Req
+[INFO] Slot assigned: 2
+[INFO] Adding new slot to slot map. Slot position: 2
+[INFO] Removing slot from slot map. Slot position: 1
+[INFO] Sending Data Pkg
+[INFO] Data pkg sent
+[INFO] Shutting radio down
+[INFO] Radio Stopped!
+[INFO] Radio started!
+[INFO] Current round: 4
+[INFO] Sending Sync Beacon Local
+[INFO] Time Sync Sent!
+[INFO] Adding new slot to slot map. Slot position: 2
+[INFO] Client: 0x00000005
+[INFO] Slot: 2
+[INFO] Removing slot from slot map. Slot position: 5
+[INFO] Force end last slot
+[INFO] Shutting radio down
+[INFO] Radio Stopped!
+[INFO] System new round
+[INFO] Radio started!
+[INFO] TS received
+[INFO] Read data done
+[INFO] Sending Data Pkg
+[INFO] Data pkg sent
+[INFO] Shutting radio down
+[INFO] Radio Stopped!
+[INFO] Radio started!
+[INFO] Current round: 3
+[INFO] Sending Sync Beacon Local
+[INFO] Time Sync Sent!
+[INFO] Shutting radio down
+[INFO] Radio Stopped!
+[ERR] New slot position can't bigger than 31. Slot position: 254
+[INFO] Force end last slot
+[INFO] Radio started!
+[INFO] System new round
+[INFO] TS received
+[INFO] Read data done
+[INFO] Sending Data Pkg
+[INFO] Data pkg sent
+[INFO] Shutting radio down
+[INFO] Radio Stopped!
+[INFO] Radio started!
+[INFO] Current round: 2
+[INFO] Sending Sync Beacon Local
+[INFO] Time Sync Sent!
+[INFO] Removing slot from slot map. Slot position: 3
+[INFO] Removing slot from slot map. Slot position: 4
+[INFO] Force end last slot
+[INFO] Shutting radio down
+[INFO] Radio Stopped!
+[INFO] System new round
+[INFO] Radio started!
+[INFO] TS received
+[INFO] Read data done
+[INFO] Sending Data Pkg
+[INFO] Data pkg sent
+[INFO] Shutting radio down
+[INFO] Radio Stopped!
+[INFO] Radio started!
+[INFO] Current round: 1
+[INFO] Sending Sync Beacon Local
+[INFO] Time Sync Sent!
+[INFO] Shutting radio down
+[INFO] Radio Stopped!
+[ERR] New slot position can't bigger than 31. Slot position: 254
+[INFO] Radio started!
+[INFO] Current round: 1
+[INFO] Sending Sync Beacon Local
+[INFO] Time Sync Sent!
+[INFO] Force end last slot
+[INFO] Radio Stopped!
+[INFO] System new round
+[INFO] Radio started!
+[INFO] TS received
+[INFO] Read data done
+[INFO] Shutting radio down
+[INFO] Radio Stopped!
+[INFO] Radio started!
+[INFO] Current round: 0
+[INFO] Sending Sync Beacon Local
+[INFO] Time Sync Sent!
+[INFO] Need off
+[INFO] Assignment sent!
+[INFO] Shutting radio down
+[INFO] Radio Stopped!
+[INFO] TDMA Controller stopped!
+[INFO] Setting up for head and node
+[INFO] Setting up for head and node
+[INFO] Radio started!
+[INFO] TS received
